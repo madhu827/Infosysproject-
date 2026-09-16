@@ -1,0 +1,24 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Spring Boot / Maven
+target/
+*.class
+
+# Node / React
+node_modules/
+frontend/infosysfrontend/node_modules/
+frontend/infosysfrontend/dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
